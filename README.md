@@ -7,7 +7,7 @@ Estimate time spent on a git repository.
 **For example time spent on [Twitter's Bootstrap](https://github.com/twbs/bootstrap)**
 
 ```javascript
-➜  bootstrap git:(master) git hours
+➜  bootstrap git:(master) git-hours
 {
 
   ...
